@@ -1,0 +1,1 @@
+This website can recognise face from picture. Upload the link of the picture and the face will be detected.
